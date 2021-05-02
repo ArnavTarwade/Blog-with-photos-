@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.imgsection { 
+    display: flex;
+    justify-content: center;
+}
+
+.secstyle {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+div {
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+
+h4 {
+    width: 100%;
+}
